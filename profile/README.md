@@ -23,21 +23,14 @@
 
 ## 我们在做什么
 
-这里目前摆着两件作品：一件用来听歌，一件用来开游戏。看起来毫不相干，骨子里却是同一种做法。
+这里目前摆着两件作品：一件用来听歌，一件用来游戏。
 
-| 项目 | 一句话 |
+| 项目 | 内容 |
 | :--- | :--- |
 | 🎵 **[ArchoeraMusic](https://github.com/ArchoeraC/ArchoeraMusic)** | 开源、多端、面向本地与在线音乐的混合架构播放器 |
 | ⛏️ **[ArchoeraCX](https://github.com/ArchoeraC/ArchoeraCX)** | 开源、多端、面向 Minecraft: Java Edition 的混合架构启动器 |
 
-**共同底色**
-
-- **界面** —— Flutter 一套代码，桌面三端一致
-- **重活** —— C / C++ / C# / Rust / Go / Zig 原生模块，进程内 FFI 直连
-- **干净** —— 拒绝大运行时
-- **克制** —— 不要求管理员 / root，数据留在你自己机器上
-
-## ArchoeraMusic —— 把歌听完
+## ArchoeraMusic
 
 > 开源、多端、面向本地与在线音乐的混合架构播放器
 
@@ -61,19 +54,13 @@
 <details>
 <summary><b>发布产物</b>（点开看看）</summary>
 
-| 平台 | 格式 |
-| :--- | :--- |
-| Linux | tar.gz · AppImage · deb · rpm · Arch pkg · Flatpak · NixOS |
-| Windows | 便携 zip · 安装器 |
-| macOS | arm64 tar.gz |
-
 全部产物附 `.sig1` 分离签名、`SHA256SUMS` 与 SBOM。
 
 </details>
 
 **入口**：[仓库](https://github.com/ArchoeraC/ArchoeraMusic) · [下载](https://github.com/ArchoeraC/ArchoeraMusic/releases) · [宣传页](https://betastudio2.github.io/ArchoeraMusic/) · [架构设计](https://github.com/ArchoeraC/ArchoeraMusic/blob/main/docs/architecture.md) · [自编译手册](https://github.com/ArchoeraC/ArchoeraMusic/blob/main/docs/user-build-from-source.md) · [疑难解答](https://github.com/ArchoeraC/ArchoeraMusic/blob/main/docs/troubleshooting.md)
 
-## ArchoeraCX —— 把游戏开起来
+## ArchoeraCX
 
 > 开源、多端、面向 Minecraft: Java Edition 的混合架构启动器
 
@@ -89,14 +76,6 @@
 
 > [!WARNING]
 > **开发版**：目前仅通过 GitHub 发布，功能不完整，可能损坏实例或配置数据；请勿用于正式环境或重要实例。
-
-- **实例** —— SQLite 索引 + `instance.json` 权威元数据，原版安装 / 启动，Java 自动扫描
-- **加载器** —— Fabric / Quilt / Forge / NeoForge 安装与修复；Modrinth 与本地 `.mrpack` 整合包
-- **登录** —— Microsoft 登录（Authorization Code + PKCE，loopback）与离线启动
-- **下载** —— Rust `DownloadPlan` 执行器：哈希校验、原子落盘、分片续传、进度与取消
-- **体验** —— AppShell + 明暗主题、系统主题色、中英文 i18n，安装与下载统一走后台任务
-
-**分层很硬**：Flutter 只管 UI，C++20 做生命周期与路由，C# NativeAOT 独占 API / 业务 / SQLite，Rust 只执行下载计划。构建、测试与数据目录见 [构建手册](https://github.com/ArchoeraC/ArchoeraCX/blob/main/docs/12-build-and-test.md)。
 
 **入口**：[仓库](https://github.com/ArchoeraC/ArchoeraCX) · [文档索引](https://github.com/ArchoeraC/ArchoeraCX/blob/main/docs/README.md) · [架构设计](https://github.com/ArchoeraC/ArchoeraCX/blob/main/docs/10-architecture-design.md) · [发行与下载策略](https://github.com/ArchoeraC/ArchoeraCX/blob/main/docs/09-distribution-and-download-policy.md)
 
