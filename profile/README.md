@@ -109,6 +109,10 @@
 > [!CAUTION]
 > 偷？自己拿去闭源？超市你！
 
+<p align="center">
+  <img src="PHOTOS/超市入口.jpg" width="680" alt="超市入口">
+</p>
+
 ## 联系与贡献
 
 | 渠道 | 说明 |
