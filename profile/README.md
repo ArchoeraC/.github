@@ -6,7 +6,7 @@
 
 **嗯……如你所见，这里是 ArchoeraC。**
 
-一个由 Archoera 与 [BetaStudio2](https://github.com/BetaStudio2) 维护的小作坊<br>
+一个由 Archoera 与 [BetaStudio2](https://github.com/BetaStudio2) 和他的小伙伴们维护的小作坊(?)<br>
 至于 Archoera 是谁……不用管，这不是重点 awa
 
 <p>
