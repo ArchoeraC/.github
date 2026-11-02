@@ -15,7 +15,7 @@
   <a href="#许可证"><img src="https://img.shields.io/badge/license-AGPL--3.0-6E4AFF?style=flat-square" alt="AGPL-3.0"></a>
 </p>
 
-[音乐](#archoeramusic--把歌听完)　·　[启动器](#archoeracx--把游戏开起来)　·　[规矩](#一些不成文的规矩)　·　[联系](#联系与贡献)
+[音乐](#archoeramusic--awa)　·　[启动器](#archoeracx--awa)　·　[联系](#联系与贡献)
 
 </div>
 
@@ -82,19 +82,6 @@
 > 本项目与 Mojang Studios、Microsoft 无关联，不分发游戏本体或资源文件，也不提供绕过正版验证的服务。
 > NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
 
-## 一些不成文的规矩
-
-| 原则 | 我们怎么做 |
-| :--- | :--- |
-| **不塞广告** | 没有广告 SDK、开屏、横幅与推广位 |
-| **不做遥测** | 不埋点、不上报使用数据、不接云端崩溃 SaaS |
-| **不搞付费解锁** | 功能不靠付费上锁，完整使用不需要一分钱 |
-| **最小权限** | 运行时不要管理员 / root，不写系统目录，不装服务与驱动 |
-| **数据在本地** | 凭据进系统密钥环或保险库，token 不跨边界、不进日志 |
-| **开源是底色** | 依照 License 自由使用、学习、修改与再分发；分发时保留声明并标注修改 |
-| **不搬「预制菜」** | 不复制其它启动器 / 播放器的代码与素材，第三方依赖逐项登记许可 |
-| **说人话** | 不踩一捧一，不做不公平比对 |
-
 ## 许可证
 
 | 项目 | 许可证 | 说明 |
@@ -119,7 +106,6 @@
 | :--- | :--- |
 | [ArchoeraMusic Issues](https://github.com/ArchoeraC/ArchoeraMusic/issues) | 缺陷、崩溃日志与建议，记得脱敏 |
 | [ArchoeraCX Issues](https://github.com/ArchoeraC/ArchoeraCX/issues) | 同上；开发版的问题也欢迎反馈 |
-| `SECURITY.md` | 安全漏洞走私密渠道，**不要**公开讨论细节 |
 | [CONTRIBUTING.md](https://github.com/ArchoeraC/ArchoeraMusic/blob/main/CONTRIBUTING.md) | Music 接受 PR，合入前需接受贡献者授权 |
 
 代码贡献：ArchoeraMusic 接受 PR（先读贡献规范并接受贡献者授权）；ArchoeraCX **不接受外部代码贡献**，欢迎 Issue 与文档纠错。
