@@ -23,6 +23,9 @@
 
 ## 我们需要什么
 
+<p align="center">
+  <img src="PHOTOS/急招美工.jpg" width="680" alt="急招：美工">
+</p>
 
 ## 我们在做什么
 
