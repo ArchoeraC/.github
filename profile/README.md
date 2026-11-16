@@ -40,7 +40,7 @@
 
 ## ArchoeraMusic
 
-> 开源、多端、面向本地与在线音乐的混合架构播放器
+> 开源、多端的混合架构播放器
 
 <p>
   <a href="https://github.com/ArchoeraC/ArchoeraMusic/releases"><img src="https://img.shields.io/github/v/release/ArchoeraC/ArchoeraMusic?label=release&color=2E7D32&style=flat-square" alt="release"></a>
@@ -52,12 +52,6 @@
   <a href="https://betastudio2.github.io/ArchoeraMusic/"><img src="https://raw.githubusercontent.com/ArchoeraC/ArchoeraMusic/main/site/assets/img/home.webp" width="680" alt="ArchoeraMusic 主界面"></a><br>
   <sub>主界面 · 点图前往宣传页</sub>
 </p>
-
-- **在线** —— 连接**主流音乐源**，提供在线服务，也能安安静静只听本地
-- **本地** —— 本地音乐库扫描与元数据刮削、多平台下载
-- **引擎** —— 内置统一 C 音频引擎：EQ / 响度归一化 / 限幅器 / FFT 频谱 / 变速变调 / Opus 转码管线
-- **串流** —— 可选 Subsonic 兼容服务端，并聚合 Subsonic / Jellyfin 流媒体服务器
-- **底线** —— 不塞广告、不做遥测、不搞付费解锁；安装包默认 per-user，不要管理员
 
 <details>
 <summary><b>发布产物</b>（点开看看）</summary>
@@ -90,14 +84,8 @@
 > 本项目与 Mojang Studios、Microsoft 无关联，不分发游戏本体或资源文件，也不提供绕过正版验证的服务。
 > NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
 
-## 许可证
 
-| 项目 | 许可证 | 说明 |
-| :--- | :--- | :--- |
-| 🎵 ArchoeraMusic | **AGPL-3.0-or-later** | 允许商业使用，不提供闭源商业授权 |
-| ⛏️ ArchoeraCX | **AGPL-3.0-only** | 遵守 AGPL 义务即可自由使用、修改与再分发 |
-
-两个项目均**不提供闭源商业授权**；第三方依赖与内嵌运行库见各自的 `THIRD-PARTY-NOTICES.md`。
+目前项目均**不提供闭源商业授权**；第三方依赖与内嵌运行库见各自的 `THIRD-PARTY-NOTICES.md`。
 
 > AGPL 不是摆设：作者是呆子，但是不傻！分发或提供网络服务时，请开放源码、保留声明并标注你的修改。
 
