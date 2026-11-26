@@ -10,12 +10,12 @@
 至于 Archoera 是谁……不用管，这不是重点 awa
 
 <p>
-  <a href="https://github.com/ArchoeraC/ArchoeraMusic"><img src="https://img.shields.io/badge/ArchoeraMusic-%E5%90%AC%E6%AD%8C-2E7D32?style=flat-square" alt="ArchoeraMusic"></a>
+  <a href="https://github.com/ArchoeraC/ArchoeraMvsync"><img src="https://img.shields.io/badge/ArchoeraMvsync-%E5%90%AC%E6%AD%8C-2E7D32?style=flat-square" alt="ArchoeraMvsync"></a>
   <a href="https://github.com/ArchoeraC/ArchoeraCX"><img src="https://img.shields.io/badge/ArchoeraCX-%E5%BC%80%E6%B8%B8%E6%88%8F-3C8527?style=flat-square" alt="ArchoeraCX"></a>
   <a href="#许可证"><img src="https://img.shields.io/badge/license-AGPL--3.0-6E4AFF?style=flat-square" alt="AGPL-3.0"></a>
 </p>
 
-[音乐](#archoeramusic--awa)　·　[启动器](#archoeracx--awa)　·　[联系](#联系与贡献)
+[音乐](#archoeramvsync--awa)　·　[启动器](#archoeracx--awa)　·　[联系](#联系与贡献)
 
 </div>
 
@@ -35,7 +35,7 @@
 
 | 项目 | 内容 |
 | :--- | :--- |
-| 🎵 **[ArchoeraMusic](https://github.com/ArchoeraC/ArchoeraMusic)** | 开源、多端、面向本地与在线音乐的混合架构播放器 |
+| 🎵 **[ArchoeraMvsync](https://github.com/ArchoeraC/ArchoeraMusic)** | 开源、多端、面向本地与在线音乐的混合架构播放器 |
 | ⛏️ **[ArchoeraCX](https://github.com/ArchoeraC/ArchoeraCX)** | 开源、多端、面向 Minecraft: Java Edition 的混合架构启动器 |
 
 ## ArchoeraMusic
@@ -43,13 +43,13 @@
 > 开源、多端的混合架构播放器
 
 <p>
-  <a href="https://github.com/ArchoeraC/ArchoeraMusic/releases"><img src="https://img.shields.io/github/v/release/ArchoeraC/ArchoeraMusic?label=release&color=2E7D32&style=flat-square" alt="release"></a>
-  <a href="https://github.com/ArchoeraC/ArchoeraMusic/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-AGPL--3.0--or--later-2E7D32?style=flat-square" alt="license"></a>
-  <a href="https://github.com/ArchoeraC/ArchoeraMusic"><img src="https://img.shields.io/badge/platform-Linux%20%7C%20Windows%20%7C%20macOS-555?style=flat-square" alt="platform"></a>
+  <a href="https://github.com/ArchoeraC/ArchoeraMvsync/releases"><img src="https://img.shields.io/github/v/release/ArchoeraC/ArchoeraMvsync?label=release&color=2E7D32&style=flat-square" alt="release"></a>
+  <a href="https://github.com/ArchoeraC/ArchoeraMvsync/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-AGPL--3.0--or--later-2E7D32?style=flat-square" alt="license"></a>
+  <a href="https://github.com/ArchoeraC/ArchoeraMvsync"><img src="https://img.shields.io/badge/platform-Linux%20%7C%20Windows%20%7C%20macOS-555?style=flat-square" alt="platform"></a>
 </p>
 
 <p align="center">
-  <a href="https://betastudio2.github.io/ArchoeraMusic/"><img src="https://raw.githubusercontent.com/ArchoeraC/ArchoeraMusic/main/site/assets/img/home.webp" width="680" alt="ArchoeraMusic 主界面"></a><br>
+  <a href="https://betastudio2.github.io/ArchoeraMvsync/"><img src="https://raw.githubusercontent.com/ArchoeraC/ArchoeraMvsync/main/site/assets/img/home.webp" width="680" alt="ArchoeraMvsync 主界面"></a><br>
   <sub>主界面 · 点图前往宣传页</sub>
 </p>
 
@@ -60,7 +60,7 @@
 
 </details>
 
-**入口**：[仓库](https://github.com/ArchoeraC/ArchoeraMusic) · [下载](https://github.com/ArchoeraC/ArchoeraMusic/releases) · [宣传页](https://betastudio2.github.io/ArchoeraMusic/) · [架构设计](https://github.com/ArchoeraC/ArchoeraMusic/blob/main/docs/architecture.md) · [自编译手册](https://github.com/ArchoeraC/ArchoeraMusic/blob/main/docs/user-build-from-source.md) · [疑难解答](https://github.com/ArchoeraC/ArchoeraMusic/blob/main/docs/troubleshooting.md)
+**入口**：[仓库](https://github.com/ArchoeraC/ArchoeraMvsync) · [下载](https://github.com/ArchoeraC/ArchoeraMvsync/releases) · [宣传页](https://betastudio2.github.io/ArchoeraMvsync/) · [架构设计](https://github.com/ArchoeraC/ArchoeraMvsync/blob/main/docs/architecture.md) · [自编译手册](https://github.com/ArchoeraC/ArchoeraMvsync/blob/main/docs/user-build-from-source.md) · [疑难解答](https://github.com/ArchoeraC/ArchoeraMvsync/blob/main/docs/troubleshooting.md)
 
 ## ArchoeraCX
 
