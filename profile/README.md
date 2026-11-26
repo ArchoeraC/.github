@@ -100,7 +100,7 @@
 
 | 渠道 | 说明 |
 | :--- | :--- |
-| [ArchoeraMusic Issues](https://github.com/ArchoeraC/ArchoeraMusic/issues) | 缺陷、崩溃日志与建议，记得脱敏 |
+| [ArchoeraMvsync Issues](https://github.com/ArchoeraC/ArchoeraMvsync/issues) | 缺陷、崩溃日志与建议，记得脱敏 |
 | [ArchoeraCX Issues](https://github.com/ArchoeraC/ArchoeraCX/issues) | 同上；开发版的问题也欢迎反馈 |
 | [CONTRIBUTING.md](https://github.com/ArchoeraC/ArchoeraMusic/blob/main/CONTRIBUTING.md) | Music 接受 PR，合入前需接受贡献者授权 |
 
